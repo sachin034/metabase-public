@@ -1,0 +1,4 @@
+docker volume create --name db-data
+docker volume create --name dremio-data
+
+docker-compose up
