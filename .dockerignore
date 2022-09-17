@@ -17,7 +17,7 @@ test_modules/*
 test_resources/*
 node_modules
 **metabase.jar
-
+db-data/*
 *.db
 
 Dockerfile
